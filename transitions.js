@@ -19,7 +19,7 @@ var vendors = [
     "moz": 'transitionend',
     "webkit": 'webkitTransitionEnd',
     'ms': 'MSTransitionEnd',
-    'O': 'OTransitionEnd'
+    'o': 'OTransitionEnd'
   },
   camelToCss = function(str, w) {
     return '-' + w.toLowerCase();
