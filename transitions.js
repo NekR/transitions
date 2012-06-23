@@ -1,3 +1,10 @@
+/* -*- Mode: js; tab-width: 2; indent-tabs-mode: nil; c-basic-offset: 2 -*- /
+/* vim: set shiftwidth=2 tabstop=2 autoindent cindent expandtab: */
+
+/*
+  This code specially did not wraped with module pattern/boilerplate
+  because it should be used like internal code inside you project by you builder.
+*/
 
 "use strict";
 
